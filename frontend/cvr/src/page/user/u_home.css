@@ -1,0 +1,14 @@
+.container {
+    padding: 100px 300px;
+}
+
+.custom-card{
+    text-align: left;
+}
+
+.image-area {
+    width: 150px;
+    height: 150px;
+    background-color: rgba(78, 78, 87, 0.39);
+    border-radius: 20px;
+}
